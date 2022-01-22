@@ -7,7 +7,7 @@
       "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Magic",
       "Products": [
-        { "Item": "RunestoneMagic",    "Amount": 1 }
+        { "Item": "DustMagic",    "Amount": 1 }
       ]
     },
     {
@@ -15,7 +15,8 @@
       "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Rare",
       "Products": [
-        { "Item": "RunestoneMagic",    "Amount": 1 }
+        { "Item": "RunestoneMagic",    "Amount": 1 },
+        { "Item": "DustMagic",    "Amount": 1 }
       ]
     },
     {
@@ -23,7 +24,8 @@
       "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Epic",
       "Products": [
-        { "Item": "RunestoneMagic",    "Amount": 1 }
+        { "Item": "RunestoneMagic",    "Amount": 3 },
+        { "Item": "DustMagic",    "Amount": 1 }
       ]
     },
     {
@@ -31,7 +33,8 @@
       "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Legendary",
       "Products": [
-        { "Item": "RunestoneMagic",    "Amount": 1 }
+        { "Item": "RunestoneRare",    "Amount": 1 },
+        { "Item": "DustRare",    "Amount": 1 }
       ]
     },
     {
@@ -39,7 +42,7 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Magic",
       "Products": [
-        { "Item": "RunestoneMagic",    "Amount": 1 }
+        { "Item": "DustMagic",    "Amount": 1 }
       ]
     },
     {
@@ -47,7 +50,7 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Rare",
       "Products": [
-        { "Item": "RunestoneMagic",    "Amount": 1 }
+        { "Item": "RunestoneMagic",    "Amount": 3 }
       ]
     },
     {
@@ -55,6 +58,7 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Epic",
       "Products": [
+        { "Item": "RunestoneRare",    "Amount": 1 },
         { "Item": "RunestoneMagic",    "Amount": 1 }
       ]
     },
@@ -63,7 +67,8 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Legendary",
       "Products": [
-        { "Item": "RunestoneMagic",    "Amount": 1 }
+        { "Item": "RunestoneRare",    "Amount": 2 },
+        { "Item": "RunestoneMagic",    "Amount": 3 }
       ]
     },
     {
@@ -79,12 +84,12 @@
     {
       "ItemTypes" : [ "Trophie" ],
       "ItemNames" : [ "$item_trophy_fenring", "$item_trophy_goblin", "$item_trophy_hatchling", "$item_trophy_lox", "$item_trophy_sgolem", "$item_trophy_deathsquito", "$item_trophy_abomination" ],
-      "Products" : [ { "Item": "RunestoneMagic", "Amount": 1 } ]
+      "Products" : [ { "Item": "RunestoneMagic", "Amount": 3 } ]
     },
     {
       "ItemTypes" : [ "Trophie" ],
       "ItemNames" : [ "$item_trophy_goblinbrute", "$item_trophy_goblinshaman", "$item_trophy_serpent" ],
-      "Products" : [ { "Item": "RunestoneMagic", "Amount": 1 } ]
+      "Products" : [ { "Item": "RunestoneRare", "Amount": 1 } ]
     }
   ],
 
@@ -97,7 +102,8 @@
       "ItemTypes" : [ "OneHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Magic",
       "Cost": [
-        { "Item": "DustMagic",      "Amount": 2 },
+        { "Item": "RunestoneMagic", "Amount": 1 },
+    { "Item": "DustMagic",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 25 }
       ]
     },
@@ -106,7 +112,8 @@
       "ItemTypes" : [ "OneHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Rare",
       "Cost": [
-        { "Item": "DustRare",      "Amount": 2 },
+        { "Item": "RunestoneRare", "Amount": 1 },
+    { "Item": "DustRare",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 50 }
       ]
     },
@@ -115,7 +122,8 @@
       "ItemTypes" : [ "OneHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Epic",
       "Cost": [
-        { "Item": "DustEpic",      "Amount": 2 },
+        { "Item": "RunestoneEpic", "Amount": 1 },
+    { "Item": "DustEpic",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
@@ -124,8 +132,8 @@
       "ItemTypes" : [ "OneHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Legendary",
       "Cost": [
-		{ "Item": "RunestoneEpic",    "Amount": 1 },
-        { "Item": "DustLegendary",      "Amount": 2 },
+		    { "Item": "RunestoneEpic",    "Amount": 2 },
+    { "Item": "DustLegendary",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 200 }
       ]
     },
@@ -136,7 +144,8 @@
       "ItemTypes" : [ "Bow", "TwoHandedWeapon" ],
       "Rarity": "Magic",
       "Cost": [
-        { "Item": "EssenceMagic",      "Amount": 2 },
+        { "Item": "RunestoneMagic", "Amount": 1 },
+    { "Item": "EssenceMagic",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 25 }
       ]
     },
@@ -145,7 +154,8 @@
       "ItemTypes" : [ "Bow", "TwoHandedWeapon" ],
       "Rarity": "Rare",
       "Cost": [
-        { "Item": "EssenceRare",      "Amount": 2 },
+        { "Item": "RunestoneRare", "Amount": 1 },
+    { "Item": "EssenceRare",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 50 }
       ]
     },
@@ -154,7 +164,8 @@
       "ItemTypes" : [ "Bow", "TwoHandedWeapon" ],
       "Rarity": "Epic",
       "Cost": [
-        { "Item": "EssenceEpic",      "Amount": 2 },
+        { "Item": "RunestoneEpic", "Amount": 1 },
+    { "Item": "EssenceEpic",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
@@ -163,7 +174,7 @@
       "ItemTypes" : [ "Bow", "TwoHandedWeapon" ],
       "Rarity": "Legendary",
       "Cost": [
-	  	{ "Item": "RunestoneEpic",    "Amount": 1 },
+	  	{ "Item": "RunestoneEpic",    "Amount": 2 },
         { "Item": "EssenceLegendary",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 200 }
       ]
@@ -175,7 +186,8 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Magic",
       "Cost": [
-        { "Item": "ReagentMagic",      "Amount": 2 },
+        { "Item": "RunestoneMagic", "Amount": 1 },
+    { "Item": "ReagentMagic",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 25 }
       ]
     },
@@ -184,7 +196,8 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Rare",
       "Cost": [
-        { "Item": "ReagentRare",      "Amount": 2 },
+        { "Item": "RunestoneRare", "Amount": 1 },
+    { "Item": "ReagentRare",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 50 }
       ]
     },
@@ -193,7 +206,8 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Epic",
       "Cost": [
-        { "Item": "ReagentEpic",      "Amount": 2 },
+        { "Item": "RunestoneEpic", "Amount": 1 },
+    { "Item": "ReagentEpic",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
@@ -202,7 +216,7 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Legendary",
       "Cost": [
-	  	{ "Item": "RunestoneEpic",    "Amount": 1 },
+	  	{ "Item": "RunestoneEpic",    "Amount": 2 },
         { "Item": "ReagentLegendary",      "Amount": 2 },
 		{ "Item": "Coins",      "Amount": 200 }
 
@@ -238,7 +252,7 @@
       "ItemTypes" : [ "OneHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Epic",
       "Cost": [
-		{ "Item": "RunestoneRare",    "Amount": 1 },
+		{ "Item": "RunestoneEpic",    "Amount": 1 },
 		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
@@ -247,7 +261,7 @@
       "ItemTypes" : [ "OneHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Legendary",
       "Cost": [
-		{ "Item": "RunestoneRare",    "Amount": 1 },
+		{ "Item": "RunestoneEpic",    "Amount": 1 },
 		{ "Item": "Coins",      "Amount": 200 }
       ]
     },
@@ -276,7 +290,7 @@
       "ItemTypes" : [ "Bow", "TwoHandedWeapon" ],
       "Rarity": "Epic",
       "Cost": [
-		{ "Item": "RunestoneRare",    "Amount": 1 },
+		{ "Item": "RunestoneEpic",    "Amount": 1 },
 		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
@@ -285,7 +299,7 @@
       "ItemTypes" : [ "Bow", "TwoHandedWeapon" ],
       "Rarity": "Legendary",
       "Cost": [
-		{ "Item": "RunestoneRare",    "Amount": 1 },
+		{ "Item": "RunestoneEpic",    "Amount": 1 },
 		{ "Item": "Coins",      "Amount": 200 }
       ]
     },
@@ -314,7 +328,7 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Epic",
       "Cost": [
-		{ "Item": "RunestoneRare",    "Amount": 1 },
+		{ "Item": "RunestoneEpic",    "Amount": 1 },
 		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
@@ -323,7 +337,7 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Legendary",
       "Cost": [
-		{ "Item": "RunestoneRare",    "Amount": 1 },
+		{ "Item": "RunestoneEpic",    "Amount": 1 },
 		{ "Item": "Coins",      "Amount": 200 }
       ]
     }

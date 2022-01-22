@@ -38,7 +38,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 5 }
+        { "item": "RunestoneMagic", "amount": 5 },
+        { "item": "Coins", "amount": 75 }
       ]
     },
     {
@@ -47,7 +48,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneRare", "amount": 5  }
+        { "item": "RunestoneRare", "amount": 5  },
+        { "item": "Coins", "amount": 150 }
       ]
     },
 	
@@ -58,7 +60,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "ShardMagic", "amount": 2 }
+        { "item": "ShardMagic", "amount": 3 },
+        { "item": "Coins", "amount": 75 }
       ]
     },
     {
@@ -67,7 +70,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "ShardRare", "amount": 2 }
+        { "item": "ShardRare", "amount": 3 },
+        { "item": "Coins", "amount": 150 }
       ]
     },
     {
@@ -76,7 +80,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "ShardEpic", "amount": 2}
+        { "item": "ShardEpic", "amount": 3 },
+        { "item": "Coins", "amount": 300 }
       ]
     },
 
@@ -87,7 +92,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "DustMagic", "amount": 2  }
+        { "item": "DustMagic", "amount": 3  },
+        { "item": "Coins", "amount": 50 }
       ]
     },
     {
@@ -96,7 +102,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "DustRare", "amount": 2  }
+        { "item": "DustRare", "amount": 3  },
+        { "item": "Coins", "amount": 100 }
       ]
     },
     {
@@ -105,7 +112,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "DustEpic", "amount": 2  }
+        { "item": "DustEpic", "amount": 3  },
+        { "item": "Coins", "amount": 250 }
       ]
     },
     ///////////////////////////////////////////////////////////////////////////////////////////////
@@ -115,7 +123,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "ReagentMagic", "amount": 2 }
+        { "item": "ReagentMagic", "amount": 3 },
+        { "item": "Coins", "amount": 50 }
       ]
     },
     {
@@ -124,7 +133,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "ReagentRare", "amount": 2  }
+        { "item": "ReagentRare", "amount": 3  },
+        { "item": "Coins", "amount": 100 }
       ]
     },
     {
@@ -133,7 +143,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "ReagentEpic", "amount": 2  }
+        { "item": "ReagentEpic", "amount": 3  },
+        { "item": "Coins", "amount": 250 }
       ]
     },
     ///////////////////////////////////////////////////////////////////////////////////////////////
@@ -143,7 +154,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "EssenceMagic", "amount": 2 }
+        { "item": "EssenceMagic", "amount": 3 },
+        { "item": "Coins", "amount": 50 }
       ]
     },
     {
@@ -152,7 +164,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "EssenceRare", "amount": 2  }
+        { "item": "EssenceRare", "amount": 3  },
+        { "item": "Coins", "amount": 100 }
       ]
     },
     {
@@ -161,7 +174,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "EssenceEpic", "amount": 2  }
+        { "item": "EssenceEpic", "amount": 3  },
+        { "item": "Coins", "amount": 250 }
       ]
     },
 
@@ -204,8 +218,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 50 }
+        { "item": "RunestoneRare", "amount": 1 },
+		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
     {
@@ -214,8 +228,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 50 }
+        { "item": "RunestoneRare", "amount": 1 },
+		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
     {
@@ -224,8 +238,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 50 }
+        { "item": "RunestoneRare", "amount": 1 },
+		{ "Item": "Coins",      "Amount": 100 }
       ]
     },
     ///////////////////////////////////////////////////////////////////////////////////////////////
@@ -235,8 +249,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 100 }
+        { "item": "RunestoneEpic", "amount": 1 },
+		{ "Item": "Coins",      "Amount": 225 }
       ]
     },
     {
@@ -245,8 +259,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 100 }
+        { "item": "RunestoneEpic", "amount": 1 },
+		{ "Item": "Coins",      "Amount": 225 }
       ]
     },
     {
@@ -255,8 +269,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 100 }
+        { "item": "RunestoneEpic", "amount": 1 },
+		{ "Item": "Coins",      "Amount": 225 }
       ]
     },
 
@@ -268,8 +282,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 200 }
+        { "item": "RunestoneEpic", "amount": 2 },
+		{ "Item": "Coins",      "Amount": 500 }
       ]
     },
     {
@@ -278,8 +292,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 200 }
+        { "item": "RunestoneEpic", "amount": 2 },
+		{ "Item": "Coins",      "Amount": 500 }
       ]
     },
     {
@@ -288,8 +302,8 @@
       "amount": 1,
       "craftingStation": "piece_alchemystation",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 1 },
-		{ "Item": "Coins",      "Amount": 200 }
+        { "item": "RunestoneEpic", "amount": 2 },
+		{ "Item": "Coins",      "Amount": 500 }
       ]
     }
   ]
