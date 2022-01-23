@@ -264,7 +264,6 @@
         ],
         "ItemHasNoParryBonus": true
       },
- , 
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" }
       ]
@@ -279,7 +278,6 @@
           "Helmet"
         ]
       },
-       
       "GuaranteedMagicEffects": [
         { "Type": "ModifyArmorLowHealth", "Values": { "MinValue": 30, "MaxValue": 35, "Increment": 1 } },
         { "Type": "ModifyStaminaRegenLowHealth", "Values": { "MinValue": 25, "MaxValue": 30, "Increment": 1 } }
@@ -296,7 +294,6 @@
           "Chest"
         ]
       },
-       
       "GuaranteedMagicEffects": [
         { "Type": "ModifyArmor", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } },
         { "Type": "IncreaseStamina", "Values": { "MinValue": 50, "MaxValue": 60, "Increment": 1 } }
@@ -312,16 +309,15 @@
           "Legs"
         ]
       },
-       
       "GuaranteedMagicEffects": [
         { "Type": "AddMovementSkills", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
         { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } }
       ]
     },
 	
-	// Loki
+	  // Loki
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	{
+	  {
       "ID": "LokiCape",
       "Name": "Loki's Devious Cape",
       "Description": "Thin, almost invisible.",
@@ -330,10 +326,9 @@
         "AllowedItemTypes": [
           "Shoulder"
         ]
-      }, 
- 
+      }
     },
-	{
+	  {
       "ID": "LokiHelm",
       "Name": "Loki's Devious Helmet",
       "Description": "Two sharp horns stick out.",
@@ -342,8 +337,7 @@
         "AllowedItemTypes": [
           "Helmet"
         ]
-      }, 
- 
+      }
     },
     {
       "ID": "LokiChest",
@@ -354,8 +348,7 @@
         "AllowedItemTypes": [
           "Chest"
         ]
-	  }, 
- 
+	  }
     },
     {
       "ID": "Laevateinn",
@@ -374,7 +367,7 @@
       ]
     },
 
-	// Thor
+	  // Thor
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "ID": "ThorCape",
@@ -385,10 +378,9 @@
         "AllowedItemTypes": [
           "Shoulder"
         ]
-      }, 
-  
+      }
     },
-	{
+	  {
       "ID": "ThorHelm",
       "Name": "Thor's Mighty Helm",
       "Description": "Shiniest Helmet in all of Asgard.",
@@ -397,8 +389,7 @@
         "AllowedItemTypes": [
           "Helmet"
         ]
-      }, 
- 
+      } 
     },
     {
       "ID": "ThorChest",
@@ -409,21 +400,21 @@
         "AllowedItemTypes": [
           "Chest"
         ]
-	  }, 
- 
+      }
     },
-	{
+	  {
       "ID": "ThorWeapon",
-      "Name": "Mjolnir, Mighty Hammer of Thor",
+      "Name": "Mjolnir, Mighty Weapon of Thor",
       "Description": "Not for mere mortals.",
-	  "IsSetItem": true, 
+      "IsSetItem": true, 
       "EquipFx": "LightningAuraSledge",
       "EquipFxMode": "EquipRoot", 
       "Requirements": {
         "AllowedItemTypes": [ "OneHandedWeapon"],
-	  "AllowedSkillTypes": [ "Clubs" ] },       
+        "AllowedSkillTypes": [ "Clubs" ] 
+      },       
       "GuaranteedMagicEffects": [
-		{ "Type": "AddLightningDamage", "Values": { "MinValue" : 5, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "AddLightningDamage", "Values": { "MinValue" : 5, "MaxValue" : 30, "Increment" : 1 } },
         { "Type": "Throwable" },
         { "Type": "RecallWeapon" }
       ]
@@ -477,11 +468,11 @@
           "Legs"
         ]
       }, 
-	"GuaranteedMagicEffects": [
+	    "GuaranteedMagicEffects": [
         { "Type": "AddFireResistance", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } }     ]   
     },
 
-	// Gladiator
+	  // Gladiator
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "ID": "GladiatorShield",
@@ -493,7 +484,7 @@
           "Shield"
         ],
         "ItemHasNoParryBonus": false
-      },
+      }
     },
     {
       "ID": "GladiatorSword",
@@ -503,11 +494,11 @@
       "Requirements": {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Swords" ]
-      },
+      }
  
     },
 
-	// Nomad
+	  // Nomad
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "ID": "NomadCape",
@@ -518,10 +509,9 @@
         "AllowedItemTypes": [
           "Shoulder"
         ]
-      }, 
-  
+      }  
     },
-	{
+	  {
       "ID": "NomadHelm",
       "Name": "Nomad's Hat",
       "Description": "Simple, protects from the harsh sun.",
@@ -530,7 +520,7 @@
         "AllowedItemTypes": [
           "Helmet"
         ]
-      }, 
+      } 
  
     },
     {
@@ -542,8 +532,7 @@
         "AllowedItemTypes": [
           "Chest"
         ]
-	 }, 
- 
+      }    
     },
     {
       "ID": "NomadLegs",
@@ -554,7 +543,7 @@
         "AllowedItemTypes": [
           "Legs"
         ]
-      }, 
+      } 
  
     },
 
@@ -585,8 +574,7 @@
         "AllowedItemTypes": [
           "Shoulder"
         ]
-      },
- 
+      }
     },
     {
       "ID": "RagnarChest",
@@ -598,8 +586,7 @@
         "AllowedItemTypes": [
           "Chest"
         ]
-      },
- 
+      }
     },
     {
       "ID": "RagnarLegs",
@@ -610,8 +597,7 @@
         "AllowedItemTypes": [
           "Legs"
         ]
-      },
- 
+      }
     }
   ],
 
@@ -634,7 +620,6 @@
         { "Count": 4, "Effect": { "Type": "Undying" } }
       ]
     },
-	
     {
       "ID": "Ragnar",
       "Name": "$mod_epicloot_set_ragnar",
@@ -651,8 +636,7 @@
         { "Count": 4, "Effect": { "Type": "Undying" } }
       ]
     },
-	
-	{
+	  {
       "ID": "Loki",
       "Name": "Loki's Devious Garbs",
       "LegendaryIDs": [
@@ -666,8 +650,7 @@
         { "Count": 3, "Effect": { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 10, "MaxValue": 15, "Increment": 1 } } }
       ]
     },
-	
-	{
+  	{
       "ID": "Thor",
       "Name": "Thor's Mighty Battlegear",
       "LegendaryIDs": [
@@ -677,12 +660,11 @@
         "ThorWeapon"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "DoubleJump", } },
+        { "Count": 2, "Effect": { "Type": "DoubleJump" } },
         { "Count": 3, "Effect": { "Type": "Undying" } }
       ]
     },
-	
-	{
+	  {
       "ID": "Bear",
       "Name": "Mysterious Bear Carcass",
       "LegendaryIDs": [
@@ -696,8 +678,7 @@
         { "Count": 3, "Effect": { "Type": "ModifyHealthRegen", "Values": { "MinValue": 200, "MaxValue": 200, "Increment": 1 } } }
       ]
     },
-	
-	{
+  	{
       "ID": "Gladiator",
       "Name": "Gladiator's Might",
       "LegendaryIDs": [
@@ -709,8 +690,7 @@
         { "Count": 2, "Effect": { "Type": "ModifyBlockPower", "Values": { "MinValue": 100, "MaxValue": 200, "Increment": 1 } } }
       ]
     },
-	
-	{
+	  {
       "ID": "Nomad",
       "Name": "Nomad's Peacekeeping Wear",
       "LegendaryIDs": [
@@ -724,6 +704,5 @@
         { "Count": 3, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 25, "MaxValue": 40, "Increment": 1 } } }
       ]
     }
-	
   ] 
 }

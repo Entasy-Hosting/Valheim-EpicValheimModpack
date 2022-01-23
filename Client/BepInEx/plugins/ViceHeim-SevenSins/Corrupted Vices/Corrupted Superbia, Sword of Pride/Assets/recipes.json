@@ -1,0 +1,21 @@
+[
+  {
+    "name": "$item_corrupted_pride_sword",
+    "nameValue": "Corrupted Superbia, Sword of Pride",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedPrideSword.prefab",
+    "item": "CorruptedPrideSword",
+    "descriptionToken": "$item_corrupted_pride_sword_description",
+    "description": "This is going exactly, how I expected it to. Not even suprised..",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 5,
+    "enabled": false,
+    "resources": [
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]

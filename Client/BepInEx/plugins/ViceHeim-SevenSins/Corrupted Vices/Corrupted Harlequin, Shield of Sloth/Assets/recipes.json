@@ -1,0 +1,26 @@
+[
+  {
+    "name": "$item_corrupted_sloth_shield",
+    "nameValue": "Corrupted Harlequin, Shield of Sloth",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedSlothShield.prefab",
+    "item": "CorruptedSlothShield",
+    "descriptionToken": "$item_corrupted_sloth_shield_description",
+    "description": "This feels just right to me. I don't mind being here.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 5,
+    "enabled": false,
+    "resources": [
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      },
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]

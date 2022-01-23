@@ -103,8 +103,8 @@
       "Rarity": "Magic",
       "Cost": [
         { "Item": "RunestoneMagic", "Amount": 1 },
-    { "Item": "DustMagic",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 25 }
+        { "Item": "DustMagic",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 25 }
       ]
     },
 	
@@ -113,8 +113,8 @@
       "Rarity": "Rare",
       "Cost": [
         { "Item": "RunestoneRare", "Amount": 1 },
-    { "Item": "DustRare",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 50 }
+        { "Item": "DustRare",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 50 }
       ]
     },
 	
@@ -123,8 +123,8 @@
       "Rarity": "Epic",
       "Cost": [
         { "Item": "RunestoneEpic", "Amount": 1 },
-    { "Item": "DustEpic",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 100 }
+        { "Item": "DustEpic",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 100 }
       ]
     },
 	
@@ -133,8 +133,8 @@
       "Rarity": "Legendary",
       "Cost": [
 		    { "Item": "RunestoneEpic",    "Amount": 2 },
-    { "Item": "DustLegendary",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 200 }
+        { "Item": "DustLegendary",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 200 }
       ]
     },
 	
@@ -145,8 +145,8 @@
       "Rarity": "Magic",
       "Cost": [
         { "Item": "RunestoneMagic", "Amount": 1 },
-    { "Item": "EssenceMagic",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 25 }
+        { "Item": "EssenceMagic",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 25 }
       ]
     },
 	
@@ -155,8 +155,8 @@
       "Rarity": "Rare",
       "Cost": [
         { "Item": "RunestoneRare", "Amount": 1 },
-    { "Item": "EssenceRare",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 50 }
+        { "Item": "EssenceRare",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 50 }
       ]
     },
 	
@@ -165,8 +165,8 @@
       "Rarity": "Epic",
       "Cost": [
         { "Item": "RunestoneEpic", "Amount": 1 },
-    { "Item": "EssenceEpic",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 100 }
+        { "Item": "EssenceEpic",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 100 }
       ]
     },
 	
@@ -174,9 +174,9 @@
       "ItemTypes" : [ "Bow", "TwoHandedWeapon" ],
       "Rarity": "Legendary",
       "Cost": [
-	  	{ "Item": "RunestoneEpic",    "Amount": 2 },
+	  	  { "Item": "RunestoneEpic",    "Amount": 2 },
         { "Item": "EssenceLegendary",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 200 }
+		    { "Item": "Coins",      "Amount": 200 }
       ]
     },
 		
@@ -187,8 +187,8 @@
       "Rarity": "Magic",
       "Cost": [
         { "Item": "RunestoneMagic", "Amount": 1 },
-    { "Item": "ReagentMagic",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 25 }
+        { "Item": "ReagentMagic",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 25 }
       ]
     },
 	
@@ -197,8 +197,8 @@
       "Rarity": "Rare",
       "Cost": [
         { "Item": "RunestoneRare", "Amount": 1 },
-    { "Item": "ReagentRare",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 50 }
+        { "Item": "ReagentRare",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 50 }
       ]
     },
 	
@@ -207,8 +207,8 @@
       "Rarity": "Epic",
       "Cost": [
         { "Item": "RunestoneEpic", "Amount": 1 },
-    { "Item": "ReagentEpic",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 100 }
+        { "Item": "ReagentEpic",      "Amount": 2 },
+        { "Item": "Coins",      "Amount": 100 }
       ]
     },
 	
@@ -216,9 +216,9 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Legendary",
       "Cost": [
-	  	{ "Item": "RunestoneEpic",    "Amount": 2 },
+	  	   "Item": "RunestoneEpic",    "Amount": 2 },
         { "Item": "ReagentLegendary",      "Amount": 2 },
-		{ "Item": "Coins",      "Amount": 200 }
+		    { "Item": "Coins",      "Amount": 200 }
 
       ]
     }

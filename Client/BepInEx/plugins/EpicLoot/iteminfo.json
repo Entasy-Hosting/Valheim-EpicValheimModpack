@@ -1,104 +1,355 @@
 {
-  "ItemInfo": [
-    {
-      "Type": "Swords",
-      "Fallback": "AxeFlint",
-      "Items": [ "SwordBronze", "SwordIron", "SwordSilver", "SwordBlackmetal", "SwordHeavymetal", "SwordFrometal", "SwordFlametal" ]
-    },
-    {
-      "Type": "Axes",
-      "Fallback": "Club",
-      "Items": [ "AxeStone", "AxeFlint", "AxeBronze", "AxeIron", "AxeBlackMetal", "AxeHeavymetal", "AxeFrometal", "AxeFlametal" ]
-    },
-    {
-      "Type": "TwoHandAxes",
-      "Fallback": "AxeIron",
-      "Items": [ "Battleaxe", "BattleaxeCrystal", "BattleaxeHeavymetal", "BattleaxeFrometal", "BattleaxeFlametal" ]
-    },
-	{
-      "Type": "TwoHandSwords",
-      "Fallback": "AxeIron",
-      "Items": [ "GreatSwordHeavymetal", "GreatSwordFrometal", "GreatSwordFlametal" ]
-    },
-    {
-      "Type": "Knives",
-      "Fallback": "Club",
-      "Items": [ "KnifeFlint", "KnifeCopper", "KnifeChitin", "KnifeSilver", "KnifeBlackMetal", "KnifeHeavymetal", "KnifeFrometal", "KnifeFlametal" ]
-    },
-    {
-      "Type": "Clubs",
-      "Fallback": "",
-      "Items": [ "Club", "MaceBronze", "MaceIron", "MaceSilver", "MaceNeedle", "MaceHeavymetal", "MaceFrometal", "MaceFlametal" ]
-    },
-    {
-      "Type": "Sledges",
-      "Fallback": "AxeFlint",
-      "Items": [ "SledgeStagbreaker", "SledgeIron", "SledgeHeavymetal", "SledgeFrometal", "SledgeFlametal" ]
-    },
-    {
-      "Type": "Polearms",
-      "Fallback": "SpearBronze",
-      "Items": [ "AtgeirBronze", "AtgeirIron", "AtgeirBlackmetal", "AtgeirHeavymetal", "AtgeirFrometal", "AtgeirFlametal" ]
-    },
-    {
-      "Type": "Spears",
-      "Fallback": "Club",
-      "Items": [ "SpearFlint", "SpearBronze", "SpearElderbark", "SpearWolfFang", "SpearHeavymetal", "SpearFrometal", "SpearFlametal" ]
-    },
-    {
-      "Type": "Pickaxes",
-      "Fallback": "AxeFlint",
-      "Items": [ "PickaxeAntler", "PickaxeBronze", "PickaxeIron", "PickaxeHeavymetal", "PickaxeFrometal", "PickaxeFlametal" ]
-    },
-    {
-      "Type": "Bows",
-      "Fallback": "Club",
-      "Items": [ "Bow", "BowFineWood", "BowHuntsman", "BowDraugrFang", "BowHeavymetal", "BowFrometal", "BowFlametal" ]
-    },
-    {
-      "Type": "RoundShields",
-      "Fallback": "Club",
-      "Items": [ "ShieldWood", "ShieldBronzeBuckler", "ShieldBanded", "ShieldIronBuckler", "ShieldSilver", "ShieldBlackmetal", "ShieldHeavymetal", "ShieldFrometal", "ShieldFlametal" ]
-    },
-    {
-      "Type": "TowerShields",
-      "Fallback": "Club",
-      "Items": [ "ShieldWoodTower", "ShieldIronTower","ShieldTowerBone", "ShieldSerpentscale", "ShieldBlackmetalTower", "ShieldHeavymetalTower", "ShieldFrometalTower", "ShieldFlametalTower" ]
-    },
-    {
-      "Type": "ChestArmor",
-      "Fallback": "",
-      "Items": [ "ArmorRagsChest", "ArmorLeatherChest", "ArmorTrollLeatherChest", "ArmorBronzeChest", "ArmorIronChest", "ArmorWolfChest", "ArmorPaddedCuirass", "T1ChaosPlateArmor", "T2ChaosPlateArmor", "ChaosPlateArmorBody" ]
-    },
-    {
-      "Type": "LegsArmor",
-      "Fallback": "",
-      "Items": [ "ArmorRagsLegs", "ArmorLeatherLegs", "ArmorTrollLeatherLegs", "ArmorBronzeLegs", "ArmorIronLegs", "ArmorWolfLegs", "ArmorPaddedGreaves", "T1ChaosPlateLegs", "T2ChaosPlateLegs", "ChaosPlateLegs" ]
-    },
-    {
-      "Type": "HeadArmor",
-      "Fallback": "ArmorRagsChest",
-      "Items": [ "HelmetLeather", "HelmetTrollLeather", "HelmetBronze", "HelmetIron", "HelmetDrake", "HelmetPadded", "T1ChaosPlateHelm", "T2ChaosPlateHelm", "ChaosPlateHelm" ]
-    },
-    {
-      "Type": "ShouldersArmor",
-      "Fallback": "ArmorRagsLegs",
-      "Items": [ "CapeDeerHide", "CapeTrollHide", "CapeWolf", "CapeLinen", "CapeLox" ]
-    },
-    {
-      "Type": "Torches",
-      "Fallback": "Club",
-      "Items": [ "Torch" ]
-    },
-    {
-      "Type": "Tools",
-      "Fallback": "Club",
-      "Items": [ "Hammer", "Hoe", "Cultivator" ]
-    },
-    {
-      "Type": "Utility",
-      "Fallback": "",
-      "Items": [ ]
-    }
-  ]
+    "ItemInfo": [
+        {
+            "Type": "Swords",
+            "Fallback": "AxeFlint",
+            "Items": [
+                "SwordBronze",
+                "SwordIron",
+                "SwordSilver",
+                "SwordBlackmetal",
+                "SwordHeavymetal",
+                "SwordFrometal",
+                "SwordFlametal",
+                "DeerFistsHTD",
+                "BronzeFistsHTD",
+                "IronFistsHTD",
+                "SilverFistsHTD",
+                "v801_UnarmedFenring",
+                "v801_UnarmedFrost",
+                "v801_UnarmedFrostOH",
+                "v801_SwordFire",
+                "v801_SwordLightning",
+                "GluttonyBlade",
+                "CorruptedGluttonyBlade",
+                "PrideSword",
+                "CorruptedPrideSword"
+            ]
+        },
+        {
+            "Type": "Axes",
+            "Fallback": "Club",
+            "Items": [
+                "AxeStone",
+                "AxeFlint",
+                "AxeBronze",
+                "AxeIron",
+                "AxeBlackMetal",
+                "AxeHeavymetal",
+                "AxeFrometal",
+                "AxeFlametal"
+            ]
+        },
+        {
+            "Type": "TwoHandAxes",
+            "Fallback": "AxeIron",
+            "Items": [
+                "Battleaxe",
+                "BattleaxeCrystal",
+                "BattleaxeHeavymetal",
+                "BattleaxeFrometal",
+                "BattleaxeFlametal",
+                "BronzeBattleaxeHTD",
+                "SilverBattleaxeHTD",
+                "BlackMetalBattleaxeHTD",
+                "v801_BattleaxeLightning", 
+                "EnvyGreataxe",
+                "CorruptedEnvyGreataxe"
+            ]
+        },
+        {
+            "Type": "TwoHandSwords",
+            "Fallback": "AxeIron",
+            "Items": [
+                "GreatSwordHeavymetal",
+                "GreatSwordFrometal",
+                "GreatSwordFlametal",
+                "BronzeGreatSwordHTD",
+                "IronGreatSwordHTD",
+                "IronHeavyGreatSwordHTD",
+                "DragonSlayerSwordHTD",
+                "SilverGreatSwordHTD",
+                "BlackMetalGreatSwordHTD",
+                "BlackMetalGreatSwordAltHTD",
+                "BoneGreatSwordHTD",
+                "ObsidianGreatSwordHTD",
+                "ObsidianGreatSwordRedHTD",
+                "FlametalGreatSwordHTD",
+                "WrathGreatsword",
+                "CorruptedWrath"
+            ]
+        },
+        {
+            "Type": "Knives",
+            "Fallback": "Club",
+            "Items": [
+                "KnifeFlint",
+                "KnifeCopper",
+                "KnifeChitin",
+                "KnifeSilver",
+                "KnifeBlackMetal",
+                "KnifeHeavymetal",
+                "KnifeFrometal",
+                "KnifeFlametal",
+                "NeedleBlade",
+                "DeathBlade",
+                "v801_KnifeFrost",
+                "GreedDagger",
+                "CorruptedGreedDagger"
+            ]
+        },
+        {
+            "Type": "Clubs",
+            "Fallback": "",
+            "Items": [
+                "Club",
+                "MaceBronze",
+                "MaceIron",
+                "MaceSilver",
+                "MaceNeedle",
+                "MaceHeavymetal",
+                "MaceFrometal",
+                "MaceFlametal",
+                "CoreGreatMaceHTD",
+                "CoreGreatMaceGreenHTD",
+                "CoreGreatMaceBlueHTD",
+                "SilverGreatMaceHTD",
+                "BoneGreatMaceHTD"
+            ]
+        },
+        {
+            "Type": "Sledges",
+            "Fallback": "AxeFlint",
+            "Items": [
+                "SledgeStagbreaker",
+                "SledgeIron",
+                "SledgeHeavymetal",
+                "SledgeFrometal",
+                "SledgeFlametal",
+                "BronzeHammerHTD",
+                "BronzeCrowbillHTD",
+                "v801_SledgePoison",
+                "v801_SledgeFire"
+            ]
+        },
+        {
+            "Type": "Staves",
+            "Fallback": "SpearBronze",
+            "Items": [
+              "SageFireStaff",
+              "SageHolyStaff",
+              "SageIceStaff",
+              "SageLightningStaff",
+              "SageDarkStaff",
+              "v801_SpellFire",
+              "SlothStaff",
+              "CorruptedSlothStaff"
+            ]
+      },
+        {
+            "Type": "Polearms",
+            "Fallback": "SpearBronze",
+            "Items": [
+                "AtgeirBronze",
+                "AtgeirIron",
+                "AtgeirBlackmetal",
+                "AtgeirHeavymetal",
+                "AtgeirFrometal",
+                "AtgeirFlametal",
+                "LustScythe",
+                "CorruptedLust"
+            ]
+        },
+        {
+            "Type": "Spears",
+            "Fallback": "Club",
+            "Items": [
+                "SpearFlint",
+                "SpearBronze",
+                "SpearElderbark",
+                "SpearWolfFang",
+                "SpearHeavymetal",
+                "SpearFrometal",
+                "SpearFlametal",
+                "v801_SpearSpirit"
+            ]
+        },
+        {
+            "Type": "Pickaxes",
+            "Fallback": "AxeFlint",
+            "Items": [
+                "PickaxeAntler",
+                "PickaxeBronze",
+                "PickaxeIron",
+                "PickaxeHeavymetal",
+                "PickaxeFrometal",
+                "PickaxeFlametal"
+            ]
+        },
+        {
+            "Type": "Bows",
+            "Fallback": "Club",
+            "Items": [
+                "Bow",
+                "BowFineWood",
+                "BowHuntsman",
+                "BowDraugrFang",
+                "BowHeavymetal",
+                "BowFrometal",
+                "BowFlametal",
+                "v801_BowFrost"
+            ]
+        },
+        {
+            "Type": "RoundShields",
+            "Fallback": "Club",
+            "Items": [
+                "ShieldWood",
+                "ShieldBronzeBuckler",
+                "ShieldBanded",
+                "ShieldIronBuckler",
+                "ShieldSilver",
+                "ShieldBlackmetal",
+                "ShieldHeavymetal",
+                "ShieldFrometal",
+                "ShieldFlametal",
+                "v801_ShieldFire",
+                "SlothShield",
+                "CorruptedSlothShield"
+            ]
+        },
+        {
+            "Type": "TowerShields",
+            "Fallback": "Club",
+            "Items": [
+                "ShieldWoodTower",
+                "ShieldIronTower",
+                "ShieldTowerBone",
+                "ShieldSerpentscale",
+                "ShieldBlackmetalTower",
+                "ShieldHeavymetalTower",
+                "ShieldFrometalTower",
+                "ShieldFlametalTower",
+                "VanityShield",
+                "CorruptedVanityShield"
+            ]
+        },
+        {
+            "Type": "ChestArmor",
+            "Fallback": "",
+            "Items": [
+                "ArmorRagsChest",
+                "ArmorLeatherChest",
+                "ArmorTrollLeatherChest",
+                "ArmorBronzeChest",
+                "ArmorIronChest",
+                "ArmorWolfChest",
+                "ArmorPaddedCuirass",
+                "T1ChaosPlateArmor",
+                "T2ChaosPlateArmor",
+                "ChaosPlateArmorBody",
+                "SageTunicBlack",
+                "SageTunicBlue",
+                "SageTunicBrown",
+                "SageTunicGray",
+                "SageTunicGreen",
+                "SageTunicRed",
+                "SageTunicWhite",
+                "SageRobeBlack",
+                "SageRobeBlue",
+                "SageRobeBrown",
+                "SageRobeGray",
+                "SageRobeGreen",
+                "SageRobeRed",
+                "SageRobeWhite"
+            ]
+        },
+        {
+            "Type": "LegsArmor",
+            "Fallback": "",
+            "Items": [
+                "ArmorRagsLegs",
+                "ArmorLeatherLegs",
+                "ArmorTrollLeatherLegs",
+                "ArmorBronzeLegs",
+                "ArmorIronLegs",
+                "ArmorWolfLegs",
+                "ArmorPaddedGreaves",
+                "T1ChaosPlateLegs",
+                "T2ChaosPlateLegs",
+                "ChaosPlateLegs",
+                "SagePants"
+            ]
+        },
+        {
+            "Type": "HeadArmor",
+            "Fallback": "ArmorRagsChest",
+            "Items": [
+                "HelmetLeather",
+                "HelmetTrollLeather",
+                "HelmetBronze",
+                "HelmetIron",
+                "HelmetDrake",
+                "HelmetPadded",
+                "T1ChaosPlateHelm",
+                "T2ChaosPlateHelm",
+                "ChaosPlateHelm",
+                "SageHoodBlack",
+                "SageHoodBlue",
+                "SageHoodBrown",
+                "SageHoodGray",
+                "SageHoodGreen",
+                "SageHoodRed",
+                "SageHoodWhite",
+                "SageCrownGold01",
+                "SageCrownGold02",
+                "SageCrownGold03",
+                "SageCrownSilver01",
+                "SageCrownSilver02",
+                "SageCrownSilver03",
+                "SageCrownObsidian01",
+                "SageCrownObsidian02",
+                "SageCrownObsidian03",
+                "HeadElf"
+            ]
+        },
+        {
+            "Type": "ShouldersArmor",
+            "Fallback": "ArmorRagsLegs",
+            "Items": [
+                "CapeDeerHide",
+                "CapeTrollHide",
+                "CapeWolf",
+                "CapeLinen",
+                "CapeLox"
+            ]
+        },
+        {
+            "Type": "Torches",
+            "Fallback": "Club",
+            "Items": [
+                "Torch"
+            ]
+        },
+        {
+            "Type": "Tools",
+            "Fallback": "Club",
+            "Items": [
+                "Hammer",
+                "Hoe",
+                "Cultivator"
+            ]
+        },
+        {
+            "Type": "Utility",
+            "Fallback": "",
+            "Items": [
+              "SageBook01",
+              "SageBook02",
+              "SageBook03",
+              "SageBook04",
+              "v801"
+            ]
+        }
+    ]
 }

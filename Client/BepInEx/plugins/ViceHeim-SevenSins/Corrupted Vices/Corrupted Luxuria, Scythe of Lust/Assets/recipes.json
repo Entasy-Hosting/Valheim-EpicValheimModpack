@@ -1,0 +1,26 @@
+[
+  {
+    "name": "$item_corrupted_lust",
+    "nameValue": "Corrupted Luxuria, Scythe of Lust",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedLust.prefab",
+    "item": "CorruptedLust",
+    "descriptionToken": "$item_corrupted_lust_description",
+    "description": "Why.. Why can't I see you? I'm lost why aren't you here?",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 5,
+    "enabled": false,
+    "resources": [
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      },
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "$item_knife_greed",
+    "nameValue": "Avaritia, Dagger of Greed",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/GreedDagger.prefab",
+    "item": "GreedDagger",
+    "descriptionToken": "$item_knife_greed_description",
+    "description": "Rarely used, but always held until the users final moments.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 1,
+    "enabled": true,
+    "resources": [
+      {
+        "item": "ElderBark",
+        "amount": 10,
+        "amountPerLevel": 5
+      },
+      {
+        "item": "Crystal",
+        "amount": 40,
+        "amountPerLevel": 10
+      },
+      {
+        "item": "Obsidian",
+        "amount": 40,
+        "amountPerLevel": 10
+      },
+      {
+        "item": "Coins",
+        "amount": 900,
+        "amountPerLevel": 100
+      }
+    ]
+  }
+]

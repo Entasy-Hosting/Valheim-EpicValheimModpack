@@ -1,0 +1,26 @@
+[
+  {
+    "name": "$item_fragmented_staff_sloth",
+    "nameValue": "Corrupted Aceedia, Staff of Sloth",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedSlothStaff.prefab",
+    "item": "CorruptedSlothStaff",
+    "descriptionToken": "$item_fragmented_staff_sloth_description",
+    "description": "No.. I have to go back. Why am I here? What is this place? Hello?!",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 1,
+    "enabled": true,
+    "resources": [
+      {
+        "item": "0",
+        "amount": 0,
+        "amountPerLevel": 0
+      },
+      {
+        "item": "0",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]
