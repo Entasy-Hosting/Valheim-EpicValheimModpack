@@ -1,0 +1,26 @@
+[
+  {
+    "name": "$item_corrupted_blade_gluttony",
+    "nameValue": "Corrupted Gula, Blade of Gluttony",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedGluttonyBlade.prefab",
+    "item": "CorruptedGluttonyBlade",
+    "descriptionToken": "$item_blade_gluttony_description",
+    "description": "I'm here now and that's ok. This waste of time is all I need.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 5,
+    "enabled": false,
+    "resources": [
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      },
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]

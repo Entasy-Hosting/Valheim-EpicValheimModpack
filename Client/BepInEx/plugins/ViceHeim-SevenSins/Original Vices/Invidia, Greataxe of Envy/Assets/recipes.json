@@ -1,0 +1,36 @@
+[
+  {
+    "name": "$item_axe_envy",
+    "nameValue": "Invidia, Greataxe of Envy",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/EnvyGreataxe.prefab",
+    "item": "EnvyGreataxe",
+    "descriptionToken": "$item_axe_envy_description",
+    "description": "At first, envious of its successor, the neutron star and the black hole found unity.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 1,
+    "enabled": true,
+    "resources": [
+      {
+        "item": "ElderBark",
+        "amount": 10,
+        "amountPerLevel": 5
+      },
+      {
+        "item": "Crystal",
+        "amount": 50,
+        "amountPerLevel": 10
+      },
+      {
+        "item": "TrophyDragonQueen",
+        "amount": 2,
+        "amountPerLevel": 1
+      },
+      {
+        "item": "BlackMetal",
+        "amount": 20,
+        "amountPerLevel": 5
+      }
+    ]
+  }
+]

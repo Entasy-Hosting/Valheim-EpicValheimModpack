@@ -1,0 +1,26 @@
+[
+  {
+    "name": "$item_knife_corrupted_greed",
+    "nameValue": "Corrupted Avaritia, Dagger of Greed",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedGreedDagger.prefab",
+    "item": "CorruptedGreedDagger",
+    "descriptionToken": "$item_knife_corrupted_greed_description",
+    "description": "Of course. This happens everytime! So tired of ending up in this place.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 5,
+    "enabled": false,
+    "resources": [
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      },
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]

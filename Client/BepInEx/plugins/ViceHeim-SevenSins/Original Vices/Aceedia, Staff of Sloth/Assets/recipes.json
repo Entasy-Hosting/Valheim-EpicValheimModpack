@@ -1,0 +1,37 @@
+[
+  {
+    "name": "$item_staff_sloth",
+    "nameValue": "Aceedia, Staff of Sloth",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/SlothStaff.prefab",
+    "item": "SlothStaff",
+    "descriptionToken": "$item_staff_sloth_description",
+    "description": "Even if you are not ready for the day, it cannot always be night.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 1,
+    "enabled": true,
+    "resources": [
+      {
+        "item": "ElderBark",
+        "amount": 10,
+        "amountPerLevel": 5
+      },
+      {
+        "item": "Crystal",
+        "amount": 50,
+        "amountPerLevel": 10
+      },
+      {
+        "item": "TrophySGolem",
+        "amount": 3,
+        "amountPerLevel": 1
+      },
+      {
+        "item": "BlackMetal",
+        "amount": 30,
+        "amountPerLevel": 5
+
+      }
+    ]
+  }
+]

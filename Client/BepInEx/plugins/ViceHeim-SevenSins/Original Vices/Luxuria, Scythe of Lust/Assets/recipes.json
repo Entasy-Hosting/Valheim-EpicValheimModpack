@@ -1,0 +1,36 @@
+[
+  {
+    "name": "$item_scythe_lust",
+    "nameValue": "Luxuria, Scythe of Lust",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/LustScythe.prefab",
+    "item": "LustScythe",
+    "descriptionToken": "$item_scythe_lust_description",
+    "description": "Bound to the wielder, if left idle for to long, it's strength will dwindle.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 1,
+    "enabled": true,
+    "resources": [
+      {
+        "item": "ElderBark",
+        "amount": 10,
+        "amountPerLevel": 5
+      },
+      {
+        "item": "Crystal",
+        "amount": 50,
+        "amountPerLevel": 10
+      },
+      {
+        "item": "DragonTear",
+        "amount": 30,
+        "amountPerLevel": 5
+      },
+      {
+        "item": "BlackMetal",
+        "amount": 20,
+        "amountPerLevel": 5
+      }
+    ]
+  }
+]

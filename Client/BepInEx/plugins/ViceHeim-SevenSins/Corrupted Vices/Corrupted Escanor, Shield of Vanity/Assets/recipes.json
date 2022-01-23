@@ -1,0 +1,21 @@
+[
+  {
+    "name": "$item_corrupted_vanity_shield",
+    "nameValue": "Corrupted Escanor, Shield of Vanity",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedVanityShield.prefab",
+    "item": "CorruptedVanityShield",
+    "descriptionToken": "$item_corrupted_vanity_shield_description",
+    "description": "Just great. Thought I saw that coming.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 5,
+    "enabled": true,
+    "resources": [
+      {
+        "item": "0",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]

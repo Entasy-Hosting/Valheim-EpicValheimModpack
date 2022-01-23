@@ -1,0 +1,26 @@
+[
+  {
+    "name": "$item_corrupted_envy",
+    "nameValue": "Corrupted Invidia, Greataxe of Envy",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedEnvyGreataxe.prefab",
+    "item": "CorruptedEnvyGreataxe",
+    "descriptionToken": "$item_corrupted_envy_description",
+    "description": "Oh wait this must be the key to this place. A key to the emptiness between these worlds.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 5,
+    "enabled": false,
+    "resources": [
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      },
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]

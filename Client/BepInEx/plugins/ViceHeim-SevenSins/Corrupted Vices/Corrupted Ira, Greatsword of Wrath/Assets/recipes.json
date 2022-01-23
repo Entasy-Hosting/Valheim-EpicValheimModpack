@@ -1,0 +1,26 @@
+[
+  {
+    "name": "$item_corrupted_wrath",
+    "nameValue": "Corrupted Ira, Greatsword of Wrath",
+    "prefabPath": "Assets/CustomItems/Weapons/Sins/CorruptedWrath.prefab",
+    "item": "CorruptedWrath",
+    "descriptionToken": "$item_corrupted_wrath_description",
+    "description": "Why is it so hot in here? Nothing new for me. Just odd that such a empty place can be so hot.",
+    "amount": 1,
+    "craftingStation": "piece_artisanstation",
+    "minStationLevel": 5,
+    "enabled": false,
+    "resources": [
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      },
+      {
+        "item": "",
+        "amount": 0,
+        "amountPerLevel": 0
+      }
+    ]
+  }
+]
