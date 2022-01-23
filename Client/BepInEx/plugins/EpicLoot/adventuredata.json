@@ -1,7 +1,7 @@
 {
     "FulingCoinDropScale": 1,
     "SecretStash": {
-        "RefreshInterval": 1,
+        "RefreshInterval": 3,
         "Materials": [],
         "RollsPerRarity": [
             4,
@@ -36,7 +36,7 @@
             {
                 "Item": "BeltStrength",
                 "CoinsCost": 1000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "RunestoneMagic",
@@ -51,8 +51,8 @@
                 "GoldBountyTokenCost": 5
             },
             {
-                "Item": "IronBountToken",
-                "IronBountyTokenCost": 5
+                "Item": "IronBountyToken",
+                "ForestTokenCost": 5
             }
         ]
     },
@@ -227,7 +227,7 @@
             {
                 "Item": "KnifeBlackMetal",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 3
+                "IronBountyTokenCost": 5
             },
             {
                 "Item": "PickaxeStone",
@@ -253,7 +253,7 @@
             {
                 "Item": "SledgeIron",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 1
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "SpearFlint",
@@ -292,12 +292,12 @@
             {
                 "Item": "BowHuntsman",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 1
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "BowDraugrFang",
                 "CoinsCost": 1000,
-                "IronBountyTokenCost": 4
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "ShieldWood",
@@ -314,7 +314,7 @@
             {
                 "Item": "ShieldSerpentscale",
                 "CoinsCost": 1000,
-                "IronBountyTokenCost": 4
+                "IronBountyTokenCost": 5
             },
             {
                 "Item": "ArmorRagsChest",
@@ -375,17 +375,17 @@
             {
                 "Item": "CapeWolf",
                 "CoinsCost": 1000,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 5
             },
             {
                 "Item": "CapeLinen",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 3
+                "GoldBountyTokenCost": 1
             },
             {
                 "Item": "CapeLox",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 3
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "LeatherBelt",
@@ -394,62 +394,62 @@
             {
                 "Item": "GoldRubyRing",
                 "CoinsCost": 400,
-                "IronBountyTokenCost": 2
+                "GoldBountyTokenCost": 1
             },
             {
                 "Item": "ArmorIronChest",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "ArmorIronLegs",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "HelmetIron",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "MaceIron",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "AtgeirIron",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "ShieldBanded",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 4
             },
             {
                 "Item": "ShieldIronTower",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 4
             },
             {
                 "Item": "ShieldIronBuckler",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 4
             },
             {
                 "Item": "SwordIron",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "AxeIron",
                 "CoinsCost": 750,
-                "IronBountyTokenCost": 2
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "BattleaxeCrystal",
                 "CoinsCost": 1100,
-                "GoldBountyTokenCost": 1
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "ArmorWolfChest",
@@ -464,302 +464,317 @@
             {
                 "Item": "HelmetDrake",
                 "CoinsCost": 1000,
-                "GoldBountyTokenCost": 1
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "MaceSilver",
                 "CoinsCost": 1000,
-                "GoldBountyTokenCost": 1
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "ShieldSilver",
                 "CoinsCost": 1000,
-                "GoldBountyTokenCost": 1
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "KnifeSilver",
                 "CoinsCost": 1000,
-                "GoldBountyTokenCost": 1
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "SwordSilver",
                 "CoinsCost": 1000,
-                "GoldBountyTokenCost": 1
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "ArmorPaddedCuirass",
                 "CoinsCost": 1500,
-                "GoldBountyTokenCost": 1
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "ArmorPaddedGreaves",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 1,
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "HelmetPadded",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 1,
+                "IronBountyTokenCost": 3
             },
             {
                 "Item": "MaceNeedle",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 1
             },
             {
                 "Item": "AtgeirBlackmetal",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "KnifeBlackMetal",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "ShieldBlackmetal",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 2,
+                "IronBountyTokenCost": 1
             },
             {
                 "Item": "ShieldBlackmetalTower",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 2,
+                "IronBountyTokenCost": 1
             },
             {
                 "Item": "SwordBlackmetal",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "AxeBlackMetal",
                 "CoinsCost": 1500,
-                "IronBountyTokenCost": 5
+                "GoldBountyTokenCost": 2
             },
             {
                 "Item": "BattleaxeHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "BowHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "AxeHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "MaceHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "AtgeirHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "SledgeHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "SpearHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "SwordHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "KnifeHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3
             },
             {
                 "Item": "GreatSwordHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "ShieldHeavymetal",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "ShieldHeavymetalTower",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 3,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "T1ChaosPlateArmor",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 4
             },
             {
                 "Item": "T1ChaosPlateHelm",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 4
             },
             {
                 "Item": "T1ChaosPlateLegs",
                 "CoinsCost": 2000,
-                "GoldBountyTokenCost": 2
+                "GoldBountyTokenCost": 4
             },
             {
                 "Item": "BattleaxeFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "BowFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "AxeFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "MaceFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "AtgeirFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "SledgeFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "SpearFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "SwordFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 8
             },
             {
                 "Item": "KnifeFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "GreatSwordFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "ShieldFrometal",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7,
+                "IronBountyTokenCost": 5
             },
             {
                 "Item": "ShieldFrometalTower",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7,
+                "IronBountyTokenCost": 2
             },
             {
                 "Item": "T2ChaosPlateArmor",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "T2ChaosPlateHelm",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "T2ChaosPlateLegs",
                 "CoinsCost": 2500,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "BattleaxeFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 8
             },
             {
                 "Item": "BowFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 8
             },
             {
                 "Item": "AxeFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "MaceFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "AtgeirFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 8
             },
             {
                 "Item": "SledgeFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 8
             },
             {
                 "Item": "SpearFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "SwordFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "KnifeFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 7
             },
             {
                 "Item": "GreatSwordFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 8
             },
             {
                 "Item": "ShieldFlametal",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 8
             },
             {
                 "Item": "ShieldFlametalTower",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 8
             },
             {
                 "Item": "ChaosPlateArmorBody",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 10
             },
             {
                 "Item": "ChaosPlateHelm",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 10
             },
             {
                 "Item": "ChaosPlateLegs",
                 "CoinsCost": 3000,
-                "GoldBountyTokenCost": 5
+                "GoldBountyTokenCost": 10
             }
         ]
     },
@@ -1103,22 +1118,22 @@
             {
                 "Biome": "Plains",
                 "TargetID": "Goblin",
-                "RewardGold": 1,
-                "RewardIron": 0,
+                "RewardGold": 0,
+                "RewardIron": 5,
                 "RewardCoins": 600
             },
             {
                 "Biome": "Plains",
                 "TargetID": "Goblin",
-                "RewardGold": 1,
-                "RewardIron": 0,
+                "RewardGold": 0,
+                "RewardIron": 5,
                 "RewardCoins": 600
             },
             {
                 "Biome": "Plains",
                 "TargetID": "Goblin",
-                "RewardGold": 1,
-                "RewardIron": 0,
+                "RewardGold": 0,
+                "RewardIron": 5,
                 "RewardCoins": 600
             },
             {
@@ -1131,22 +1146,22 @@
             {
                 "Biome": "Plains",
                 "TargetID": "Deathsquito",
-                "RewardGold": 1,
-                "RewardIron": 0,
+                "RewardGold": 0,
+                "RewardIron": 5,
+                "RewardCoins": 600
+            },
+            {
+                "Biome": "Plains",
+                "TargetID": "Deathsquito",
+                "RewardGold": 0,
+                "RewardIron": 5,
                 "RewardCoins": 600
             },
             {
                 "Biome": "Plains",
                 "TargetID": "Deathsquito",
                 "RewardGold": 1,
-                "RewardIron": 0,
-                "RewardCoins": 600
-            },
-            {
-                "Biome": "Plains",
-                "TargetID": "Deathsquito",
-                "RewardGold": 1,
-                "RewardIron": 0,
+                "RewardIron": 1,
                 "RewardCoins": 600,
                 "Adds": [
                     {
@@ -1158,7 +1173,7 @@
             {
                 "Biome": "Plains",
                 "TargetID": "GoblinBrute",
-                "RewardGold": 1,
+                "RewardGold": 5,
                 "RewardIron": 0,
                 "RewardCoins": 600
             },
@@ -1192,7 +1207,7 @@
                 "Biome": "Plains",
                 "TargetID": "GoblinShaman",
                 "RewardGold": 1,
-                "RewardIron": 1,
+                "RewardIron": 0,
                 "RewardCoins": 600,
                 "Adds": [
                     {
@@ -1205,7 +1220,7 @@
                 "Biome": "Plains",
                 "TargetID": "GoblinShaman",
                 "RewardGold": 1,
-                "RewardIron": 1,
+                "RewardIron": 2,
                 "RewardCoins": 600,
                 "Adds": [
                     {
@@ -1228,8 +1243,8 @@
             {
                 "Biome": "Ocean",
                 "TargetID": "Serpent",
-                "RewardGold": 4,
-                "RewardIron": 0,
+                "RewardGold": 2,
+                "RewardIron": 3,
                 "RewardCoins": 1500,
                 "Adds": [
                     {
