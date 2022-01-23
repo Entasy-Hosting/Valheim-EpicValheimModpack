@@ -52,7 +52,7 @@
                 "BronzeBattleaxeHTD",
                 "SilverBattleaxeHTD",
                 "BlackMetalBattleaxeHTD",
-                "v801_BattleaxeLightning", 
+                "v801_BattleaxeLightning",
                 "EnvyGreataxe",
                 "CorruptedEnvyGreataxe"
             ]
@@ -136,16 +136,16 @@
             "Type": "Staves",
             "Fallback": "SpearBronze",
             "Items": [
-              "SageFireStaff",
-              "SageHolyStaff",
-              "SageIceStaff",
-              "SageLightningStaff",
-              "SageDarkStaff",
-              "v801_SpellFire",
-              "SlothStaff",
-              "CorruptedSlothStaff"
+                "SageFireStaff",
+                "SageHolyStaff",
+                "SageIceStaff",
+                "SageLightningStaff",
+                "SageDarkStaff",
+                "v801_SpellFire",
+                "SlothStaff",
+                "CorruptedSlothStaff"
             ]
-      },
+        },
         {
             "Type": "Polearms",
             "Fallback": "SpearBronze",
@@ -344,11 +344,11 @@
             "Type": "Utility",
             "Fallback": "",
             "Items": [
-              "SageBook01",
-              "SageBook02",
-              "SageBook03",
-              "SageBook04",
-              "v801"
+                "SageBook01",
+                "SageBook02",
+                "SageBook03",
+                "SageBook04",
+                "v801"
             ]
         }
     ]
