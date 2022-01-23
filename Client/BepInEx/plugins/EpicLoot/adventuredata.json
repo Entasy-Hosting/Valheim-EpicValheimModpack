@@ -10,22 +10,6 @@
             1
         ],
         "RandomItems": [
-            {
-                "Item": "AtgeirBronze",
-                "CoinsCost": 250
-            },
-            {
-                "Item": "AxeStone",
-                "CoinsCost": 100
-            },
-            {
-                "Item": "AxeFlint",
-                "CoinsCost": 150
-            },
-            {
-                "Item": "AxeBronze",
-                "CoinsCost": 250
-            }
         ],
         "RandomItemsCount": 4,
         "OtherItems": [
