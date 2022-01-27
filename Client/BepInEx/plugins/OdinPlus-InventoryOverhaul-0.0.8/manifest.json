@@ -1,9 +1,0 @@
-﻿{
-  "name": "InventoryOverhaul",
-  "description": "a visual overhaul for your inventory layout",
-  "version_number": "0.0.8",
-  "website_url": "",
-  "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.1600"
-  ]
-}
