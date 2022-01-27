@@ -56,7 +56,7 @@
 		"m_useDurabilityDrain": 1,
 		"m_questItem": false,
 		"m_teleportable": true,
-		"m_toolTier": 5,
+		"m_toolTier": 4,
 		"m_value": 0
 	}
 }
