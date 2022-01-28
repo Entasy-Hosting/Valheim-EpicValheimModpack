@@ -1,1 +1,1 @@
-{"name":"v801_UnarmedFrost","craftingStation":"$piece_forge","minStationLevel":6,"amount":1,"disabled":false,"reqs":["FreezeGland:20:4:False","TrophyHatchling:10:0:False","DragonTear:80:20:False","TrophyDragonQueen:8:0:False"]}
+{"name":"v801_UnarmedFrost","craftingStation":"$piece_forge","minStationLevel":6,"amount":1,"disabled":false,"reqs":["FreezeGland:20:4:False","TrophyHatchling:10:0:False","DragonTear:30:10:False","TrophyDragonQueen:8:0:False"]}

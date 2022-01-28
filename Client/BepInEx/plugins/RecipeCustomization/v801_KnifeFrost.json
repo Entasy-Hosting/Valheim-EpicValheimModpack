@@ -1,1 +1,1 @@
-{"name":"v801_KnifeFrost","craftingStation":"$piece_forge","minStationLevel":6,"amount":1,"disabled":false,"reqs":["FreezeGland:24:6:False","Needle:60:10:False","DragonTear:80:20:False","TrophyDragonQueen:8:0:False"]}
+{"name":"v801_KnifeFrost","craftingStation":"$piece_forge","minStationLevel":6,"amount":1,"disabled":false,"reqs":["FreezeGland:24:6:False","Needle:30:10:False","DragonTear:30:20:False","TrophyDragonQueen:5:2:False"]}

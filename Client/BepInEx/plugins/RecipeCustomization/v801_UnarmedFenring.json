@@ -1,1 +1,1 @@
-{"name":"v801_UnarmedFenring","craftingStation":"$piece_forge","minStationLevel":5,"amount":1,"disabled":false,"reqs":["FreezeGland:40:10:False","Silver:60:10:False","Chain:4:2:False","TrophyFenring:10:0:False"]}
+{"name":"v801_UnarmedFenring","craftingStation":"$piece_forge","minStationLevel":5,"amount":1,"disabled":false,"reqs":["FreezeGland:30:10:False","Silver:30:10:False","Chain:4:2:False","TrophyFenring:10:0:False"]}

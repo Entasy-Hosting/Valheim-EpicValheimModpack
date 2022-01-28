@@ -1,1 +1,1 @@
-{"name":"v801_SwordFire","craftingStation":"$piece_forge","minStationLevel":7,"amount":1,"disabled":false,"reqs":["Iron:40:10:False","Crystal:40:15:False","Silver:36:12:False","TrophyEikthyr:12:0:False"]}
+{"name":"v801_SwordFire","craftingStation":"$piece_forge","minStationLevel":7,"amount":1,"disabled":false,"reqs":["Silver:30:10:False","Crystal:15:15:False","BlackMetal:15:15:False","YagluthDrop:5:2:False"]}

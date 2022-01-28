@@ -1,1 +1,1 @@
-{"name":"v801_SpellFire","craftingStation":"$piece_forge","minStationLevel":7,"amount":1,"disabled":false,"reqs":["Crystal:40:10:False","TrophyGoblinKing:12:0:False","YagluthDrop:36:2:False"]}
+{"name":"v801_SpellFire","craftingStation":"$piece_forge","minStationLevel":7,"amount":1,"disabled":false,"reqs":["Crystal:40:10:False","TrophySurtling:12:2:False","YagluthDrop:10:2:False"]}

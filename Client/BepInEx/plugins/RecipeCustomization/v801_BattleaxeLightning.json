@@ -1,1 +1,1 @@
-{"name":"v801_BattleaxeLightning","craftingStation":"$piece_forge","minStationLevel":1,"amount":1,"disabled":false,"reqs":["FineWood:30:10:False","LeatherScraps:12:4:False","Silver:90:25:False","TrophyEikthyr:1:0:False"]}
+{"name":"v801_BattleaxeLightning","craftingStation":"$piece_forge","minStationLevel":1,"amount":1,"disabled":true,"reqs":["FineWood:30:10:False","LeatherScraps:12:4:False","Silver:90:25:False","TrophyEikthyr:1:0:False"]}

@@ -1,1 +1,1 @@
-{"name":"v801_SledgeFire","craftingStation":"$piece_forge","minStationLevel":6,"amount":1,"disabled":false,"reqs":["Flametal:60:15:False","SurtlingCore:60:15:False","BlackMetal:60:15:False","TrophySurtling:60:8:False"]}
+{"name":"v801_SledgeFire","craftingStation":"$piece_forge","minStationLevel":6,"amount":1,"disabled":false,"reqs":["Silver:30:10:False","SurtlingCore:15:15:False","BlackMetal:15:15:False","TrophySurtling:10:2:False"]}
