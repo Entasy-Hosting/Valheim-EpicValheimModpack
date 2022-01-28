@@ -12,25 +12,24 @@
     "enabled": true,
     "resources": [
       {
-        "item": "ElderBark",
-        "amount": 10,
-        "amountPerLevel": 5
+        "item": "SwordFlametal",
+        "amount": 1,
+        "amountPerLevel": 0
+      },
+      {
+        "item": "FrometalBar",
+        "amount": 15,
+        "amountPerLevel": 15
       },
       {
         "item": "Crystal",
         "amount": 50,
-        "amountPerLevel": 10
+        "amountPerLevel": 25
       },
       {
         "item": "Obsidian",
-        "amount": 50,
+        "amount": 15,
         "amountPerLevel": 10
-      },
-      {
-        "item": "BlackMetal",
-        "amount": 20,
-        "amountPerLevel": 5
-
       }
     ]
   }
